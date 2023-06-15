@@ -1,0 +1,6 @@
+.text__green {
+    color: var(--main-accent-green-color);
+}
+.text__orange {
+    color: var(--main-accent-color);
+}
